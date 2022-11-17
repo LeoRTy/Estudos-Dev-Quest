@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+
+}
+
+div {
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+h1 {
+    margin: 4px 25px
+}
+
+li  {
+    margin: 2px 20px;
+    font-size: 20px;
+}
+
+p {
+    margin: 2px 40px;
+    font-size: 20px;
+}
+
+    

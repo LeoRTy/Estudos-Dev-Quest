@@ -1,0 +1,7 @@
+p:first-child{
+    background-color: aqua;
+}
+
+p:not(.padrao){
+    color: red
+}

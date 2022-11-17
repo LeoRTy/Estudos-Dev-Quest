@@ -1,0 +1,22 @@
+html {
+    background-color: antiquewhite;
+}
+
+/* 1 em = 16 pixels */
+
+body {
+    background-color: orchid;
+    width: 65%;
+    font-size: 0.81rem;
+    }
+
+div.pai {
+    background-color: hsl(271, 39%, 73%);
+    width: 50%;
+    font-size: 1.5em;
+}
+
+div.filho {
+    background-color: aqua;
+    width: 50%;
+}

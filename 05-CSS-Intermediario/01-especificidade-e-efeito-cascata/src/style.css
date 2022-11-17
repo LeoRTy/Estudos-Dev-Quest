@@ -1,0 +1,24 @@
+.container-cascata {
+    background-color: darkgoldenrod;
+}
+
+/* .container-cascata {
+    background-color: orange;
+} */
+
+
+.container-especificidade h2 {
+    background-color: aqua;
+}
+
+.container-especificidade p {
+    background-color: blueviolet;
+}
+
+.container-especificidade #pcomid {
+    background: forestgreen;
+}
+
+p {
+    background-color: blue;
+}

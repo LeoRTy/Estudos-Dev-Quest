@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    margin: 2px 2px;
+}
+
+p {
+    margin: 3px;
+}
+
+#desc-play5 {
+    font-weight: bold;
+    color: brown;
+}
+
+#desc-xboxs {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+div.cartaovenda {
+    background-color: rgba(214, 203, 203, 0.8);
+    border: solid 3px black;
+    margin: 2px;
+    width: 200px;
+    }
+    ul {
+        display: flex;
+        padding: 2px;
+    }

@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+ul {
+    /* list-style-image: url(imgs/icone\ \(1\).png); */
+    font-size: 30px;
+    max-height: 200px;
+    max-width: 200px;
+    list-style: disc inside url(imgs/icone\ \(1\).png);
+    background-color: brown;
+    margin: 10px 20px;
+}
+
+ul li {
+    border: solid 1px black;
+
+}
+
+
+ol li {
+    font-size: 30px;
+    margin: 10px 20px;
+    list-style-position: inside
+}
+
+ol li:hover {
+    background-color: darkgray;
+    max-height: 200px;
+    max-width: 200px;
+    ;
+}

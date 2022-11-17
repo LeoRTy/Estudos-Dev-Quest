@@ -1,0 +1,22 @@
+.icones-teste {
+    font-size: 50px;
+}
+
+.fa-youtube {
+    color: red;
+}
+
+.fa-youtube:hover {
+    color: darkred;
+    cursor: pointer;
+}    
+
+.fa-facebook-square {
+    color: blue;
+}
+
+.fa-facebook-square:hover {
+    color: darkblue;
+    cursor: pointer;
+}
+

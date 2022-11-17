@@ -1,0 +1,16 @@
+h2.subtitulo1 {
+    background-color: blueviolet;
+    color: crimson;
+    border-color: black;
+}
+
+h2.subtitulo2 {
+   background-color: rgba(80, 60, 20, 0.2);
+   color: rgb(10, 90, 30); 
+}
+
+h2.subtitulo3 {
+    background-color: #9e3333;
+    Color: #000000
+}
+

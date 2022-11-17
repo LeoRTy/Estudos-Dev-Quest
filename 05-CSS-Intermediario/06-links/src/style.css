@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    cursor: progress;
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px black;
+    color: crimson;
+}
+
+a:visited {
+    color: darkgray;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}

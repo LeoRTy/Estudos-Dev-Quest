@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cod128' ;
+    src: url(fontes/code128.ttf);
+}
+
+
+.bar128 {
+    font-size: 80px;
+    font-family: 'cod128';
+    background-color: bisque;
+    margin: 10px 0px;
+    line-height: 50px;
+}

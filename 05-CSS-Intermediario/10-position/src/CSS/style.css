@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+html {
+    font-size: 24px;
+}
+
+.elemento {
+    color: #fff;
+    font-size: 32px;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.elemento-estatico {
+    /* position: static;  ESTE VALOR VEM DE PADRAO */
+    background-color: red;
+}
+
+.elemento-relativo {
+    position: relative;
+    left: 60px;
+    background-color: orange;
+}
+
+.elemento-absoluto {
+    position: absolute;
+    left: 200px;
+    background-color: darkcyan;
+}

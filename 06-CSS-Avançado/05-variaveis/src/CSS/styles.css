@@ -1,0 +1,14 @@
+:root{
+    --cor-padrao: red;
+    --tamanho-de-fonte-padrao: 40px
+}
+
+h2 {
+    color: var(--cor-padrao);
+    font-size: var(--tamanho-de-fonte-padrao);
+}
+
+h3 {
+    background-color: var(--cor-padrao);
+    font-size: var(--tamanho-de-fonte-padrao);
+}

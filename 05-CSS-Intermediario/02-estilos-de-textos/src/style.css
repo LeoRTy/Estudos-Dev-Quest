@@ -1,0 +1,24 @@
+
+
+p {
+    background-color: greenyellow;
+}
+
+
+
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-direita {
+    text-align: right;
+}
+
+.alinhado-centro {
+    text-align: center;
+}
+
+.alinhado-justificado {
+    text-align: justify;
+    text-transform: uppercase;
+}

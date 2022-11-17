@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: solid 10px green;
+}
+
+div.com-border-box {
+    background-color: aqua;
+    box-sizing: border-box;
+}
+
+div.sem-border-box {
+    background-color: brown;
+}

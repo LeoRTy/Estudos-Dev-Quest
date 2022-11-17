@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+h2 {
+    margin: 15px 2px 0px;
+}
+
+.descricao {
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+
+#desc-play5 {
+    font-weight: bold;
+    color: brown;
+}
+
+#desc-xboxs {
+    font-weight: bold;
+    color: blueviolet;
+}
+

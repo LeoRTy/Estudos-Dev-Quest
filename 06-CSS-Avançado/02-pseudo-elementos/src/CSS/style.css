@@ -1,0 +1,12 @@
+p::first-letter{
+    color: brown;
+    border: solid black 3px;
+}
+
+h2::before{
+    content: url(../images/favicon-32x32.png);
+}
+
+h3::after{
+    content: url(../images/favicon-32x32.png);
+}

@@ -1,0 +1,25 @@
+p {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    }
+
+.bg {
+    background-color: lightgreen;
+    background-image: url(../imgs/cat.png);
+        
+}
+
+.bg-img{
+    width: 513px;
+    height: 340px;
+}
+
+.bg-rp {
+    background-repeat: no-repeat;
+}
+
+.bg-size-cover {
+    background-size: cover;
+    height: 540px;
+}
