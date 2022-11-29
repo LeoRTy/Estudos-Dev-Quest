@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+
+    /* Valor padrao do flex-flow é o abaixo */
+    /* flex-flow: row nowrap; */
+}
+
+.container div {
+    background-color: aqua;
+    color: black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+} 
